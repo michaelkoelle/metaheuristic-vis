@@ -4,24 +4,24 @@ Implementations and visualizations for selected metaheuristic optimization algor
 
 ## Ant Colony Optimization
 
-<img src="./gif/aco.gif" alt="Ant Colony Optimization Animation" />
+<img src="./gifs/aco.gif" alt="Ant Colony Optimization Animation" />
 
 ## Genetic Algorithm
 
-<img src="./gif/ga.gif" alt="Genetic Algorithm Animation" />
+<img src="./gifs/ga.gif" alt="Genetic Algorithm Animation" />
 
 ## Harmony Search
 
-<img src="./gif/hs.gif" alt="Harmony Search Animation" />
+<img src="./gifs/hs.gif" alt="Harmony Search Animation" />
 
 ## Simulated Annealing
 
-<img src="./gif/sa.gif" alt="Simulated Annealing Animation" />
+<img src="./gifs/sa.gif" alt="Simulated Annealing Animation" />
 
 ## Particle Swarm Optimization
 
-<img src="./gif/pso.gif" alt="Particle Swarm Optimization Animation" />
+<img src="./gifs/pso.gif" alt="Particle Swarm Optimization Animation" />
 
 ## Tabu Search
 
-<img src="./gif/tabu.gif" alt="Tabu Search Animation" />
+<img src="./gifs/tabu.gif" alt="Tabu Search Animation" />

@@ -1,6 +1,6 @@
 # Metaheuristic Visualizations
 
-Implementations and visualizations for selected metaheuristic optimization algorithms
+Implementations and visualizations for selected metaheuristic optimization algorithms. The optimal solution is in the middle of each graph.
 
 ## Ant Colony Optimization
 
